@@ -30,6 +30,7 @@ h2{
     border: 1px solid #555;
     margin: 0;
     padding: 0;
+    border-radius: 20px;
 }
 
 .price-box .header{
@@ -45,7 +46,10 @@ h2{
 .price-box li{
     padding: 20px;
     box-shadow: 0px 3px 5px rgba(0, 0, 0, 0.233);
+    border-top-left-radius:19px ;
+    border-top-right-radius: 19px;
 }
+
 
 .btn {
     background-color: rgb(99, 54, 223);
